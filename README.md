@@ -4,4 +4,4 @@ Bayesian Classification.ipynb file is a solution for classifying images in diffe
 
 # Support Vector Machines
 
-#Neural Networks
+# Neural Networks
